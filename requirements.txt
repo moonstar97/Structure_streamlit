@@ -4,5 +4,4 @@ seaborn
 matplotlib
 plotly
 streamlit
-time
 Image
