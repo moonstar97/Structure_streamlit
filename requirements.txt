@@ -1,9 +1,8 @@
 pandas
 numpy
 seaborn
-matplotlib.pyplot
-plotly.express
-plotly.graph_objects
+matplotlib
+plotly
 streamlit
 time
 Image
